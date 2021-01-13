@@ -1,0 +1,20 @@
+{
+  "name": "financial-markets",
+  "version": "0.0.0",
+  "description": "Financial Markets is a repository that contains dynamically updating daily market data for top financial instruments across global markets.",
+  "author": {
+    "name": "Pratheek Nagaraj",
+    "github": "https://github.com/pratheeknagaraj"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratheeknagaraj/financial-markets"
+  },
+  "keywords": [
+    "financial",
+    "markets",
+    "instruments",
+    "csv"
+  ]
+}
