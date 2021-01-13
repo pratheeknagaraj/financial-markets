@@ -7,6 +7,8 @@
 ![last commit](https://img.shields.io/github/last-commit/pratheeknagaraj/financial-markets?color=purple)
 ![keywords](https://img.shields.io/github/package-json/keywords/pratheeknagaraj/financial-markets?color=ff69b4)
 
+![financial markets](https://raw.githubusercontent.com/pratheeknagaraj/financial-markets/master/img/financial-markets.jpg)
+
 **Financial Markets** is a repository that contains dynamically updating daily market data for top financial instruments across global markets.
 
 ## Description
